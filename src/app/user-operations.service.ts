@@ -16,7 +16,7 @@ export class UserOperationsService {
       headers: {
         "Accept": "application/json; odata=verbose"
       }
-    }, "https://infotech9211.sharepoint.com/sites/CDN");
+    }, "https://infienumtest.sharepoint.com/sites/Dev01");
 
     return mySP;
   }
